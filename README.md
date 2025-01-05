@@ -20,12 +20,13 @@
 
 # ACTIVE STATES
 
-![desktop-active-state](https://github.com/user-attachments/assets/d325e2e7-8895-4dde-a049-18ad12c36484)
 
 
+![screencapture-127-0-0-1-5500-index-html-2025-01-04-21_38_21](https://github.com/user-attachments/assets/982bf0d6-4559-4833-9ef2-8efa359c71c2)
 
 # MOBILE
 
+![screencapture-127-0-0-1-5500-index-html-2025-01-04-20_31_12](https://github.com/user-attachments/assets/713f192d-9cde-4838-90fa-ff511083bfa8)
 
 
 
