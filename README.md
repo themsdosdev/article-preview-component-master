@@ -30,7 +30,6 @@
 
 
 
-![screencapture-127-0-0-1-5500-index-html-2025-01-04-20_31_12](https://github.com/user-attachments/assets/20188ef1-9454-4106-b4cc-652f59248521)
 
 
 
